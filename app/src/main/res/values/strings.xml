@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ActionBarDemo</string>
+    <string name="action_favorite">收藏</string>
+    <string name="action_settings">设置</string>
 </resources>
