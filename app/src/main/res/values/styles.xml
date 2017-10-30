@@ -8,7 +8,6 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="toolbar_theme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
-        <item name="android:homeAsUpIndicator">@mipmap/ic_actionbar_back_light</item>
+    <style name="toolbar_theme">
     </style>
 </resources>

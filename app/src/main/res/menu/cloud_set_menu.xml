@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!--  <item android:id="@+id/menu_search"
+        	android:icon="@drawable/ic_search"
+            android:visible="true"
+            android:showAsAction="always"
+            android:title="@string/cloud_menu_title_search" />-->
+    <item android:id="@+id/menu_add_folder"
+        	android:icon="@drawable/btn_add_set"
+            android:visible="true"
+            android:showAsAction="never|withText" 
+            android:title="云相册"/>
+    <item android:id="@+id/menu_cloud_sync_manage"
+        android:visible="true"
+        android:showAsAction="never|withText"
+        android:title="云相册"/>
+	<item android:id="@+id/menu_sync_settings"
+        	android:icon="@drawable/btn_add_set"
+            android:visible="true"
+            android:showAsAction="never|withText" 
+            android:title="云相册"/>
+
+</menu>

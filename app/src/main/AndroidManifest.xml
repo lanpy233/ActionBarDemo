@@ -12,11 +12,11 @@
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity android:name=".MainActivity" />
         <activity android:name=".SearchActivity" />
-        <activity android:name=".ShareActionProviderActivity"></activity>
-        <activity android:name=".ToolBarActivity">
-
-        </activity>
+        <activity android:name=".ShareActionProviderActivity" />
+        <activity android:name=".ToolBarActivity"></activity>
         <activity android:name=".AppBarLayoutActivity">
+        </activity>
+        <activity android:name=".customtoolbar.TitleBarActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
